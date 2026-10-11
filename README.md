@@ -1,11 +1,11 @@
 **AdventureWorks Sales & Customer Analytics Dashboard**
-A multi-page Power BI dashboard designed to analyze sales performance, customer behavior, and product performance using the AdventureWorks dataset.
+ A multi-page Power BI dashboard designed to analyze sales performance, customer behavior, and product performance using the AdventureWorks dataset.
 
 This dashboard provides a comprehensive view of business performance by combining sales, customer, product, and geographic insights into a single analytical solution. It helps stakeholders monitor key performance indicators (KPIs), identify growth opportunities, understand customer behavior, and support data-driven decision-making.
 
 **🛠️ Tech Stack**
 
-The dashboard was built using the following technologies:
+ The dashboard was built using the following technologies:
 
 Power BI Desktop – Data visualization and dashboard development
 Power Query – Data cleaning, transformation, and preparation
@@ -15,7 +15,7 @@ Microsoft Excel – Initial data exploration and validation
 
 **📂 Data Source**
 
-Dataset: AdventureWorks Sales Dataset
+ Dataset: AdventureWorks Sales Dataset
 
 The AdventureWorks dataset is a sample business database provided by Microsoft and is widely used for learning business intelligence, data analytics, and reporting.
 
@@ -28,12 +28,12 @@ Calendar dimensions
 
 **Source:**
 
-Microsoft AdventureWorks Sample Database
+ Microsoft AdventureWorks Sample Database
 Kaggle AdventureWorks Datasets
 Microsoft Learn Sample Data
 
 **✨ Features & Highlights**
-Executive Overview Dashboard
+ Executive Overview Dashboard
 
 Provides a high-level snapshot of business performance through key KPIs:
 
@@ -105,8 +105,6 @@ Support strategic decision-making through data-driven insights
 Executive Overview
 Sales Performance
 Customer Analytics
-
-Author
 
 Aisyah Ahmad
  Aspiring Data Analyst | Power BI | Excel | SQL | Data Visualization
